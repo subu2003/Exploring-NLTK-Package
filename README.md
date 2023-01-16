@@ -1,6 +1,6 @@
 # Exploring-NLTK-Package
 In this I have explored the NLTK package explored and performed  the followings using the data-
-• Raw corpus
+- Raw corpus
 • POS tagged
 • Parsed
 • Multilingual aligned
